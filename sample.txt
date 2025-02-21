@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog! This is a sample text file that contains various punctuation marks, capital letters, and common English stop words. The fox was very quick, and the dog was extremely lazy. Natural Language Processing (NLP) is fascinating, isn't it? We'll clean this text using our amazing text cleaning utility.
+
+Some additional examples of text that will be processed:
+- UPPERCASE text will be converted to lowercase
+- Punctuation marks like ?,!,. will be removed
+- Stop words such as "the", "is", "and" will be removed
+- Words like "running", "runs", "ran" will be lemmatized to their base form "run"
+
+This sample text demonstrates various aspects of text preprocessing that our utility handles efficiently.
