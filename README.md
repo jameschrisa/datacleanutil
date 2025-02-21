@@ -1,4 +1,4 @@
-# Text Cleaner
+# NLTK Data Cleaner
 
 A command-line utility for cleaning text data using NLTK. This tool performs various text preprocessing steps to normalize and clean text data.
 
